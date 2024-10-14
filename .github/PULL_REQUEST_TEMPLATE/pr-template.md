@@ -1,4 +1,4 @@
-Ticket: [name](link)
+Ticket: [ticket-id name](link)
 
 ## Task
 - [ ] Update PR labels, assignee & reviewers
