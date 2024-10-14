@@ -1,7 +1,7 @@
 Ticket: [name](link)
 
-## [ ] Task
-- [ ] Update PR labels
+## Task
+- [ ] Update PR labels, assignee & reviewers
 - [ ] Other tasks
 - [ ] Versioning ++?
 
